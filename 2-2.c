@@ -10,4 +10,6 @@ void main(){
     for(i=0; i<3; i++){
         printf("%3d grade : score = %d, credit = %c\n", i+1, score[i], grade[i]);
     }
+
+    getchar();
 }
