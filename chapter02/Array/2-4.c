@@ -7,5 +7,6 @@ void main(){
     for(i=0; str[i]; i++){
         printf("%c", str[i]);
     }
+    
     getchar();
 }
